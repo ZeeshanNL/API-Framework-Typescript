@@ -20,27 +20,11 @@ npm install
 
 ### Running Tests
 
-Run Jest tests:
+Run tests:
 ```bash
-npm test
+npm npm run wdio "@Login"
 ```
 
-Run tests with coverage:
-```bash
-npm run test:cov
-```
-
-### Code Quality
-
-Run ESLint:
-```bash
-npm run lint
-```
-
-Fix ESLint issues:
-```bash
-npm run lint:fix
-```
 
 Format code with Prettier:
 ```bash
@@ -57,7 +41,6 @@ npm run report
 ## Development Requirements
 
 - TypeScript
-- Jest
-- ESLint
-- Prettier
 - WebDriverIO
+- Prettier
+
