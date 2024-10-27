@@ -1,6 +1,6 @@
-# Web Regression Testing Framework
+# API Typescript Testing Framework
 
-A web regression testing framework built with WebDriverIO, TypeScript, and Cucumber.
+This is a API testing framework built with TypeScript.
 
 ## Prerequisites
 
@@ -22,7 +22,7 @@ npm install
 
 Run tests:
 ```bash
-npm npm run wdio "@Login"
+npm test
 ```
 
 
@@ -41,6 +41,5 @@ npm run report
 ## Development Requirements
 
 - TypeScript
-- WebDriverIO
 - Prettier
 
