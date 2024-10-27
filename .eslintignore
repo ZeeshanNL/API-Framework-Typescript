@@ -1,0 +1,4 @@
+node_modules
+dist
+wdio-appium.log
+allure-results
